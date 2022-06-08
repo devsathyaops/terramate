@@ -1,4 +1,4 @@
 stack {
- name = "staging stack"
+ name = "staging-stack"
 
  }
